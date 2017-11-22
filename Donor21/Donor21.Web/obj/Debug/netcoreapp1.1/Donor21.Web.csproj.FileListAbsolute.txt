@@ -1,0 +1,10 @@
+E:\Sandeep Data\Most-Important\Desk\TebiTechnologies\Donor21\Donor21\Donor21.Web\bin\Debug\netcoreapp1.1\Donor21.Web.deps.json
+E:\Sandeep Data\Most-Important\Desk\TebiTechnologies\Donor21\Donor21\Donor21.Web\bin\Debug\netcoreapp1.1\Donor21.Web.runtimeconfig.json
+E:\Sandeep Data\Most-Important\Desk\TebiTechnologies\Donor21\Donor21\Donor21.Web\bin\Debug\netcoreapp1.1\Donor21.Web.runtimeconfig.dev.json
+E:\Sandeep Data\Most-Important\Desk\TebiTechnologies\Donor21\Donor21\Donor21.Web\bin\Debug\netcoreapp1.1\Donor21.Web.dll
+E:\Sandeep Data\Most-Important\Desk\TebiTechnologies\Donor21\Donor21\Donor21.Web\bin\Debug\netcoreapp1.1\Donor21.Web.pdb
+E:\Sandeep Data\Most-Important\Desk\TebiTechnologies\Donor21\Donor21\Donor21.Web\obj\Debug\netcoreapp1.1\Donor21.Web.csprojResolveAssemblyReference.cache
+E:\Sandeep Data\Most-Important\Desk\TebiTechnologies\Donor21\Donor21\Donor21.Web\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+E:\Sandeep Data\Most-Important\Desk\TebiTechnologies\Donor21\Donor21\Donor21.Web\obj\Debug\netcoreapp1.1\Donor21.Web.AssemblyInfo.cs
+E:\Sandeep Data\Most-Important\Desk\TebiTechnologies\Donor21\Donor21\Donor21.Web\obj\Debug\netcoreapp1.1\Donor21.Web.dll
+E:\Sandeep Data\Most-Important\Desk\TebiTechnologies\Donor21\Donor21\Donor21.Web\obj\Debug\netcoreapp1.1\Donor21.Web.pdb

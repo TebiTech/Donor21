@@ -1,4 +1,21 @@
-﻿@using System.Collections.Generic
+﻿@{
+    Layout = "~/Views/Shared/_LoginLayout.cshtml";
+    ViewData["Title"] = "Log in";
+}
+
+<div class="row">
+    <div class="col-sm-12 col-md-4 mb20">
+        @await Component.InvokeAsync("ParentLogin")
+    </div>
+    <div class="col-sm-12 col-md-4 mb20">
+        @await Component.InvokeAsync("ClinicLogin")
+    </div>
+    <div class="col-sm-12 col-md-4 mb20">
+        @await Component.InvokeAsync("DonorLogin")
+    </div>
+</div>
+
+@*@using System.Collections.Generic
 @using Microsoft.AspNetCore.Http
 @using Microsoft.AspNetCore.Http.Authentication
 @model LoginViewModel
@@ -89,4 +106,4 @@
 
 @section Scripts {
     @{ await Html.RenderPartialAsync("_ValidationScriptsPartial"); }
-}
+}*@
